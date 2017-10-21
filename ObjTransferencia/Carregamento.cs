@@ -2,6 +2,6 @@
 {
     class Carregamento
     {
-        public int teste { get; set; }
+        public int luquinha { get; set; }
     }
 }
