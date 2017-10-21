@@ -1,0 +1,7 @@
+﻿namespace ObjTransferencia
+{
+    class Carregamento
+    {
+      
+    }
+}
